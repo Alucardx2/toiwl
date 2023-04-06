@@ -6,5 +6,5 @@ def hello_world():
     return 'TargetX25'
 
 
-if __name__ == "__main__":
+if __name__ == "__bot__":
     app.run()
